@@ -1,0 +1,4 @@
+ go mod init task
+ cat go.mod
+ go build
+ go run .
