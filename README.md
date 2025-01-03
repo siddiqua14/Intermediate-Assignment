@@ -10,7 +10,7 @@ The script should show parallel execution of tasks and handle synchronization.
 Before you begin, ensure you have met the following requirements:
 - **Go (Golang)**: Version 1.18 or higher.
 - **Git**: For cloning the repository.
-- 
+  
  ## Installation and Setup
 
 ### Step 1: Install Go
